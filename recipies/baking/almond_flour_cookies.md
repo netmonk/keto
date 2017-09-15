@@ -57,7 +57,7 @@ Recipe from [Keto Connect](https://www.ketoconnect.net/recipe/low-carb-chocolate
       - Roll the dough in a cylinder, approx 2"/5cm in diameter
       - Cut into 16 cookies and set on parchment paper, press them down to approx 5mm thickness
     - Spread / Cookie cutter
-      - Spread the dough on parchment paper using a rolling pin to 5mm thickness
+      - Spread the dough on parchment paper using a rolling pin to 5mm thickness (use the back of a measuring cup)
       - Use a cookie cutter to cut consistent cookies
    - Put in the oven approximately 20 minutes in the oven, lower third
      - They'll still be pretty soft when coming out, this is normal
