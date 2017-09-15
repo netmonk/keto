@@ -17,8 +17,11 @@ Note: there's also a ["pizza waffle" variant](https://www.ditchthecarbs.com/low-
 ## Kitchenware
 
  - One clean/degreased bowl to whisk egg whites
- - On bowl to mix egg yolks the other ingredients
+ - One bowl to mix egg yolks the other ingredients
+ - One microwavable bowl or a small saucepan to melt butter
  - Hand mixer to whisk the egg whites to stiff peaks
+ - Spatula
+ - Waffle maker, pan or pancake machine
 
 ## Ingredients and recipe
 
