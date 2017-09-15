@@ -58,7 +58,7 @@ Stevia works great to tweak the sweetness level but may not be very useful on it
   - Shirataki / Konjac noodles
     - Extruded as
       - [spaghetti](https://www.nu3.fr/nu3-low-carb-spaghetti-2-x-200-g.html)
-      - [fettucini](https://www.nu3.fr/nu3-smart-low-carb-fettuccine-2-x-200-g.html]
+      - [fettucini](https://www.nu3.fr/nu3-smart-low-carb-fettuccine-2-x-200-g.html)
       - tagliatelle
       - [rice](https://www.nu3.fr/nu3-riz-low-carb-2-x-200-g.html)
     - Can be used as noodle substitute:
