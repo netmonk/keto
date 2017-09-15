@@ -12,4 +12,4 @@ We want to share valuable ressources such as :
 
 ## Recipes
 * [Almond Flout Cookies](https://netmonk.github.io/keto/recipes/baking/almond_flour_cookies.html)
-* [keto_coconut_waffles](https://netmonk.github.io/keto/recipes/baking/keto_coconut_waffles.html)
+* [keto coconut waffles](https://netmonk.github.io/keto/recipes/baking/keto_coconut_waffles.html)
