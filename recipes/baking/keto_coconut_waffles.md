@@ -12,7 +12,7 @@ Makes soft fluffy waffles. Can also be used as pancakes (pancake molds might hel
 
 Pretty awesome, on par if not better than carb waffles.
 
-Note: there's also a [["pizza waffle" variant]](https://www.ditchthecarbs.com/low-carb-pizza-waffles/).
+Note: there's also a ["pizza waffle" variant](https://www.ditchthecarbs.com/low-carb-pizza-waffles/).
 
 ## Kitchenware
 
