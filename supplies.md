@@ -32,7 +32,7 @@ List of supplies you might want to keep on hand.
 
   - Xylitol
     - [NU3 Xylitol](https://www.nu3.fr/nu3-xylitol-poudre-1000-g.html)
-    - [Xucker] (untested, cheaper)](https://www.nu3.fr/xucker-premium-xylitol-de-finlande-2-x-1000-g.html)
+    - [Xucker (untested, cheaper)](https://www.nu3.fr/xucker-premium-xylitol-de-finlande-2-x-1000-g.html)
     - Sweetness very close to actual sugar (1:1)
     - GI: ~7-10
     - Limited aftertaste
