@@ -4,22 +4,22 @@ List of supplies you might want to keep on hand.
 
 ## Basic stuff
 
-  - [https://www.nu3.fr/huile-de-coco-biologique-nu3-500-ml.html Coconut oil]
+  - [Coconut oil](https://www.nu3.fr/huile-de-coco-biologique-nu3-500-ml.html)
     
 
 ## Baking
 
   - Almond flour
-    - [https://www.nu3.fr/nu3-bio-farine-amande-500-g.html NU3 Organic almond flour]
+    - [NU3 Organic almond flour](https://www.nu3.fr/nu3-bio-farine-amande-500-g.html)
       - Lower fat content (~15%, 50% protein)
       - Finely ground, closer to wheat flour than typical "ground almonds"
       - **Warning** : when measuring by volume (cups, tablespoons...), dial down to 80%
   - Coconut flour
-    - [https://www.nu3.fr/nu3-bio-farine-de-coco-800-g.html NU3 Organic coconut flour]
+    - [NU3 Organic coconut flour](https://www.nu3.fr/nu3-bio-farine-de-coco-800-g.html)
       - Standard stuff
     - Higher carb count than almond, but usually smaller amounts needed
   - Psyllium husk powder
-    - [https://www.nu3.fr/enveloppes-de-psyllium-biologique-nu3-250-g.html NU3 Psyllium Husk Powder]
+    - [NU3 Psyllium Husk Powder](https://www.nu3.fr/enveloppes-de-psyllium-biologique-nu3-250-g.html)
     - 85% fiber
     - Natural thickening/binding agent, turns water into jelly!
     - Used when baking w/ coconut or almond flour (which lack gluten)
@@ -31,20 +31,20 @@ List of supplies you might want to keep on hand.
 ## Sweeteners
 
   - Xylitol
-    - [https://www.nu3.fr/nu3-xylitol-poudre-1000-g.html NU3 Xylitol]
-    - [https://www.nu3.fr/xucker-premium-xylitol-de-finlande-2-x-1000-g.html Xucker] (untested, cheaper)
+    - [NU3 Xylitol](https://www.nu3.fr/nu3-xylitol-poudre-1000-g.html)
+    - [Xucker] (untested, cheaper)](https://www.nu3.fr/xucker-premium-xylitol-de-finlande-2-x-1000-g.html)
     - Sweetness very close to actual sugar (1:1)
     - GI: ~7-10
     - Limited aftertaste
     - **Toxic to dogs (and maybe cats)** : store accordingly
   - Erythritol
-    - [https://www.nu3.fr/nu3-erythritol-poudre-1000-g.html NU3 Erythritol]
+    - [NU3 Erythritol](https://www.nu3.fr/nu3-erythritol-poudre-1000-g.html)
     - Lower sweetness (~80%)
     - GI: 0
     - Cool after-taste
     - Safe for pets
   - Liquid stevia
-    - [https://www.nu3.fr/steviasweet-liquid-gouttes-50-ml.html Stevia Sweet liquid stevia]
+    - [Stevia Sweet liquid stevia](https://www.nu3.fr/steviasweet-liquid-gouttes-50-ml.html)
     - Only use a few drops
     - Can be used to sweeten stuff that doesnt require bulk but can be bitter when on its own
     - Can be used to "boost" sweetness when baking
@@ -56,8 +56,12 @@ Stevia works great to tweak the sweetness level but may not be very useful on it
 ## Pasta substitute
 
   - Shirataki / Konjac noodles
-    - Extruded as fine spaghetti, thicker fettucini, tagliatelle and also as rice
-    - Case be used as noodle substitute:
+    - Extruded as
+      - [spaghetti](https://www.nu3.fr/nu3-low-carb-spaghetti-2-x-200-g.html)
+      - [fettucini](https://www.nu3.fr/nu3-smart-low-carb-fettuccine-2-x-200-g.html]
+      - tagliatelle
+      - [rice](https://www.nu3.fr/nu3-riz-low-carb-2-x-200-g.html)
+    - Can be used as noodle substitute:
       - in soup
       - in stir-frys
       - with homemade bolognese or other kind of sauce
@@ -79,7 +83,7 @@ Before going LCHF, I would have a 2:1 pasta-to-sauce/meat ratio. These days it's
 If you don't feel like baking your own low carb bread:
 
   - Ready-to-mix low-carb bread
-    - [https://www.nu3.fr/konzelmanns-preparation-pain-vitalbrot-low-carb-a-la-l-carnitine-pack-de-deux-2-x-370-g.html Konzelmann's L-Carnitine mix]
+    - [Konzelmann's L-Carnitine mix](https://www.nu3.fr/konzelmanns-preparation-pain-vitalbrot-low-carb-a-la-l-carnitine-pack-de-deux-2-x-370-g.html)
       - Easy to bake, just add water, let it rise, put it in a baking form and bake
       - On the heavy/dense side
       - Can be toasted
@@ -90,7 +94,7 @@ If you don't feel like baking your own low carb bread:
 If you don't feel like making your own _fat head_ pizza:
 
   - Ready-to-mix low carb pizza
-    - [https://www.nu3.fr/konzelmanns-preparation-pizza-low-carb-pack-de-deux-2-x-170-g.html Konzelmann' pizza mix]
+    - [Konzelmann' pizza mix](https://www.nu3.fr/konzelmanns-preparation-pizza-low-carb-pack-de-deux-2-x-170-g.html)
       - Add water, mix, let it rise, spread on baking sheet.
       - You may want to bake the dough a few minutes on its own before adding the tomato sauce/toppings
       - Overall a decent susbtitute (a little high in carbs though, I would consider it only in maintenance)
