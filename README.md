@@ -11,4 +11,4 @@ We want to share valuable ressources such as :
 
 
 ## Recipes
-* [Almond Flout Cookies](https://github.com/netmonk/keto/blob/master/recipes/baking/almond_flour_cookies.md)
+* [Almond Flout Cookies](https://netmonk.github.io/keto/recipes/baking/almond_flour_cookies.html)
