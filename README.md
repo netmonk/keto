@@ -10,3 +10,5 @@ We want to share valuable ressources such as :
 * Pointers and hints about how to find and buy specific ingredients required for Keto recipes 
 
 
+## Recipes
+* [Almond Flout Cookies](https://github.com/netmonk/keto/blob/master/recipes/baking/almond_flour_cookies.md)
